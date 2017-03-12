@@ -1,0 +1,215 @@
+BESTIARY
+
+a - insectoids
+	a - centipede
+	a - quarterpede
+	a - chonchon
+	a - killer bee
+	a - queen bee
+	a - giant beetle
+b - bats and birds
+	b - bat
+	b - crow
+	b - raven
+	b - blue crow
+c - cultists
+	c - cult initiate
+	c - cultist
+	c - crazed cultist
+	c - cultmaster
+	c - zealot
+d - canines
+	d - dog
+	d - hellhound
+	d - winter wolf
+	d - warg
+e - eyes
+	e - nominon
+	e - polkir
+	e - floating eye
+	e - peeping eye
+	e - blinking eye
+	e - glowing eye
+	e - bloodshot eye
+f - felines
+	f - cat
+	f - panther
+	f - manticore
+g - goblinoids
+	g - gargoyle
+	g - winged gargoyle
+	g - gremlin
+	g - goblin
+	g - boggart
+	g - ukobach
+h - humanoids
+	h - homunculus
+	h - mudman
+	h - merman
+i - minor demons
+	i - jersey devil
+	i - imp
+j
+k
+l - reptiles
+	l - lizard
+	l - crocodile
+	l - newt
+	l - gecko
+	l - lizardman
+	l - salamander
+	l - basilisk
+m - mimics
+	m - small mimic
+	m - large mimic
+	m - giant mimic
+	m - chest mimic
+n
+o - orbs
+	o - killer beehive
+	o - nominon
+	o - polkir
+p - plants
+	p - bloodthirsty bush
+	p - corpseweed
+	p - mandragora
+	p - maneater
+q - quadrupeds
+	q - catoblepas
+	q - gorgon
+	q - hellboar
+	q - wumpus
+	q - Vapula (unique)
+r - rodents
+s - serpents
+t
+u - equestrians
+	u - nightmare
+	u - pony
+	u - horse
+	u - warhorse
+	u - centaur
+v - vortices
+w - werecreatures
+	w - werebat
+	w - werewolf
+x - small arthropods
+	x - grid bug
+	x - cave spider
+	x - spider
+y
+z
+A - angelic beings
+B - large flying creatures
+	B - phoenix
+	B - giant bat
+	B - harpy
+C - constructs
+	C - The Creature (unique)
+	C - gold golem
+	C - paper golem
+	C - flesh golem
+	C - iron golem
+	C - clockwork golem
+	C - glass golem
+D - draconic
+	D - drake
+	D - wyvern
+E - elementals
+	E - air elemental
+	E - earth elemental
+	E - fire elemental
+	E - water elemental
+F - fungal creatures
+	F - moldy corpse
+	F - 
+G - ghosts
+	G - ghost
+	G - huge ghost
+	G - banshee
+	G - spectre
+	G - ectoplasm
+	G - poltergeist
+	G - shade
+	G - nopperabo
+H - large humanoids
+	H - minotaur
+	H - Enkidu (unique)
+I
+J
+K
+L - liches
+M - monstrosities
+	M - Legion (unique)
+	M - Mi-go
+N - necromancers and animators
+	N - necromancer
+O - slimes and jellies
+	O - blue slime
+	O - magic jelly
+P
+Q - academic
+	Q - quantum mechanic
+	Q - genetic engineer
+	Q - alchemist
+	Q - scientist
+	Q - Dr. Tarr (unique)
+	Q - Professor Fether (unique)
+	Q - Victor (unique)
+R
+S - skeletons
+	S - skeleton
+	S - skeleton hero
+	S - huge skeleton
+	S - dullahan
+T - trolls
+	T - troll
+	T - cave troll
+	T - mountain troll
+	T - bridge troll
+U - undead
+	U - ghoul
+	U - wight
+	U - wretch
+V - vampires
+	V - vampire
+	V - vampire lord
+	V - vampire master
+	V - vampire count
+	V - jiang shi
+	V - Renfield (unique)
+W - wicked humanoids
+	W - student witch
+	W - witch
+	W - sea hag
+	W - killer clown
+	W - aliorumnas
+	W - Wallman (unique)
+X - gigantic arthropods
+	X - giant spider
+Y - apelike creatures
+Z - zombies
+	Z - human zombie
+' - small, fairylike creatures
+	 ' - leprechaun
+	 ' - pixie
+	 ' - sprite
+@ - humans
+	@ - hero
+	@ - shopkeeper
+& - major demons
+	& - succubus
+	& - incubus
+	& - speed demon
+	& - Malphas (unique)
+	& - Decarabia (unique)
+; - aquatic creatures
+	; - Forneus (unique)
+	; - fomor
+	; - lorelai
+	; - edimmu
+: - animations
+	: - scarecrow
+	: - animated armor
+	: - tombstone
+	: - killer doll

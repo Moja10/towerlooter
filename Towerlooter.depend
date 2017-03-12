@@ -1,0 +1,249 @@
+# depslib dependency file v1.0
+1425657853 source:c:\towerlooter\main.cpp
+	<iostream>
+	<curses.h>
+	"colorer.h"
+	"mapper.h"
+	"movemaster.h"
+
+1216142005 c:\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1425591669 c:\towerlooter\colorer.h
+	<stdlib.h>
+
+1425657910 c:\towerlooter\mapper.h
+	<stdlib.h>
+	<time.h>
+	"Map.h"
+
+1425654435 c:\towerlooter\include\map.h
+	<vector>
+	"Tile.h"
+
+1425655409 c:\towerlooter\include\tile.h
+	"Inventory.h"
+	"Character.h"
+	"Entity.h"
+	"Map.h"
+	<curses.h>
+
+1424486138 c:\towerlooter\include\inventory.h
+	<vector>
+	"Object.h"
+
+1424458948 c:\towerlooter\include\object.h
+
+1425599557 c:\towerlooter\include\character.h
+	<string>
+
+1424458141 c:\towerlooter\include\entity.h
+
+1424462199 c:\towerlooter\movemaster.h
+
+1425496573 source:c:\towerlooter\src\character.cpp
+	"Character.h"
+
+1424458141 source:c:\towerlooter\src\entity.cpp
+	"Entity.h"
+
+1424458955 source:c:\towerlooter\src\inventory.cpp
+	"Inventory.h"
+
+1425657022 source:c:\towerlooter\src\map.cpp
+	"Map.h"
+	<curses.h>
+	<iostream>
+	<fstream>
+
+1424458948 source:c:\towerlooter\src\object.cpp
+	"Object.h"
+
+1425657700 source:c:\towerlooter\src\tile.cpp
+	"Tile.h"
+	<curses.h>
+
+1425496573 source:c:\users\cole\dropbox\towerlooter\src\character.cpp
+	"Character.h"
+
+1425599557 c:\users\cole\dropbox\towerlooter\include\character.h
+	<string>
+
+1424458141 source:c:\users\cole\dropbox\towerlooter\src\entity.cpp
+	"Entity.h"
+
+1424458141 c:\users\cole\dropbox\towerlooter\include\entity.h
+
+1424458955 source:c:\users\cole\dropbox\towerlooter\src\inventory.cpp
+	"Inventory.h"
+
+1424486138 c:\users\cole\dropbox\towerlooter\include\inventory.h
+	<vector>
+	"Object.h"
+
+1424458948 c:\users\cole\dropbox\towerlooter\include\object.h
+
+1425791961 source:c:\users\cole\dropbox\towerlooter\src\map.cpp
+	"Map.h"
+	<curses.h>
+	<iostream>
+	<fstream>
+
+1425654435 c:\users\cole\dropbox\towerlooter\include\map.h
+	<vector>
+	"Tile.h"
+
+1425791961 c:\users\cole\dropbox\towerlooter\include\tile.h
+	"Inventory.h"
+	"Character.h"
+	"Entity.h"
+	"Map.h"
+	<curses.h>
+
+1424458948 source:c:\users\cole\dropbox\towerlooter\src\object.cpp
+	"Object.h"
+
+1425791899 source:c:\users\cole\dropbox\towerlooter\src\tile.cpp
+	"Tile.h"
+	<curses.h>
+
+1425791410 source:c:\users\cole\dropbox\towerlooter\main.cpp
+	<iostream>
+	<curses.h>
+	"colorer.h"
+	"mapper.h"
+	"movemaster.h"
+
+1425591669 c:\users\cole\dropbox\towerlooter\colorer.h
+	<stdlib.h>
+
+1425672679 c:\users\cole\dropbox\towerlooter\mapper.h
+	<stdlib.h>
+	<time.h>
+	"Map.h"
+
+1424462199 c:\users\cole\dropbox\towerlooter\movemaster.h
+
+1486277358 source:c:\users\cole\dropbox\code\towerlooter\main.cpp
+	<iostream>
+	<curses.h>
+	"Map.h"
+	"Cartographer.h"
+	"TerminalColors.h"
+	"Random.h"
+	"Hero.h"
+
+1425595269 c:\users\cole\dropbox\code\towerlooter\colorer.h
+	<stdlib.h>
+
+1456938479 c:\users\cole\dropbox\code\towerlooter\mapper.h
+	<stdlib.h>
+	<time.h>
+	"Map.h"
+
+1485903160 c:\users\cole\dropbox\code\towerlooter\include\map.h
+	<vector>
+	"Character.h"
+	"Tile.h"
+
+1473387289 c:\users\cole\dropbox\code\towerlooter\include\tile.h
+	"Inventory.h"
+	"Character.h"
+	"Entity.h"
+	"Map.h"
+	<curses.h>
+
+1424486138 c:\users\cole\dropbox\code\towerlooter\include\inventory.h
+	<vector>
+	"Object.h"
+
+1472581427 c:\users\cole\dropbox\code\towerlooter\include\object.h
+
+1486143979 c:\users\cole\dropbox\code\towerlooter\include\character.h
+	<string>
+	<curses.h>
+	"Inventory.h"
+
+1456884876 c:\users\cole\dropbox\code\towerlooter\include\entity.h
+
+1424465799 c:\users\cole\dropbox\code\towerlooter\movemaster.h
+
+1472580292 source:c:\users\cole\dropbox\code\towerlooter\src\character.cpp
+	"Character.h"
+	"Tile.h"
+	<curses.h>
+
+1424458141 source:c:\users\cole\dropbox\code\towerlooter\src\entity.cpp
+	"Entity.h"
+
+1424458955 source:c:\users\cole\dropbox\code\towerlooter\src\inventory.cpp
+	"Inventory.h"
+
+1486144031 source:c:\users\cole\dropbox\code\towerlooter\src\map.cpp
+	"Map.h"
+	<curses.h>
+	<iostream>
+	<fstream>
+
+1424458948 source:c:\users\cole\dropbox\code\towerlooter\src\object.cpp
+	"Object.h"
+
+1473387325 source:c:\users\cole\dropbox\code\towerlooter\src\tile.cpp
+	"Tile.h"
+	<curses.h>
+
+1426096232 source:c:\users\cole\dropbox\code\towerlooter\src\controller.cpp
+	"Controller.h"
+
+1426099394 c:\users\cole\dropbox\code\towerlooter\include\controller.h
+
+1427478753 source:c:\users\cole\dropbox\code\towerlooter\src\human.cpp
+	"Human.h"
+
+1427478832 c:\users\cole\dropbox\code\towerlooter\include\human.h
+	<Character.h>
+
+1472327123 c:\users\cole\dropbox\code\towerlooter\diceroller.h
+	<random>
+	<time.h>
+	<stdlib.h>
+	<string>
+
+1486144008 source:c:\users\cole\dropbox\code\towerlooter\src\hero.cpp
+	"Hero.h"
+	<curses.h>
+	"Tile.h"
+
+1433025248 c:\users\cole\dropbox\code\towerlooter\include\hero.h
+	<Character.h>
+
+1433018570 c:\users\cole\dropbox\code\towerlooter\include\terminalcolors.h
+
+1472327173 source:c:\users\cole\dropbox\code\towerlooter\src\terminalcolors.cpp
+	<stdlib.h>
+	<curses.h>
+	"TerminalColors.h"
+
+1487009097 c:\users\cole\dropbox\code\towerlooter\include\cartographer.h
+	<stdlib.h>
+	<time.h>
+	"Map.h"
+
+1487008773 source:c:\users\cole\dropbox\code\towerlooter\src\cartographer.cpp
+	"Cartographer.h"
+	<stdlib.h>
+	<time.h>
+
+1471228667 source:c:\users\cole\dropbox\code\towerlooter\imageparser.cpp
+
+1472862659 source:c:\users\cole\dropbox\code\towerlooter\src\random.cpp
+	<random>
+	<time.h>
+	<stdlib.h>
+	<string>
+
+1487009877 c:\users\cole\dropbox\code\towerlooter\include\random.h
+
